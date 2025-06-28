@@ -1,0 +1,11 @@
+{
+    "pullRecords": [
+      {
+        "desired5Star": "shouldBeBoolean",
+        "numberOf4Stars": 2,
+        "pullIndex": 1,
+        "drawCount": 10
+      }
+    ]
+  }
+  
